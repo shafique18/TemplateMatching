@@ -2,7 +2,7 @@
 
 ## Beginner.ipynb || Expert.ipynb
 
-### Sklearn based fast, normalized cross-correlation
+### Sklearn based fast, normalized cross-correlation in images
 Here I have tried using Sklearn based fast, normalized cross-correlation method to match Template images with test image. 
 This approach able to find almost all images separately differentiatied by rectangular red boxes.
 
