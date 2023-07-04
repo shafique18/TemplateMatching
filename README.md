@@ -34,7 +34,7 @@ Here I have tried to explore feature mapping approach using ORB and BFMatcher wi
 
 
 ### SIFT with BFMatcher based fature matching
-A feature mapping approach using SIFT and BFMatcher methods
+A feature mapping approach using SIFT and BFMatcher methods using sklearn
 
 ![alt text](https://github.com/shafique18/TemplateMatching/blob/main/images/Screen%20Shot%202021-08-23%20at%204.29.20%20PM.png)
 
