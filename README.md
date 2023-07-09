@@ -1,4 +1,4 @@
-# TemplateMatching using python
+# image Template Matching using python
 
 ## Beginner.ipynb || Expert.ipynb
 
