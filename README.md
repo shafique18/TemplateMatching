@@ -14,7 +14,7 @@ This approach able to find almost all images separately differentiatied by recta
 
 
 ### ORB with BFMatcher based feature matching
-Here I have tried to explore feature mapping approach using ORB and BFMatcher with cv.NORM_HAMMING and cv.NORM_L2 method
+Here I have tried to explore feature mapping approach using ORB and BFMatcher with cv.NORM_HAMMING and cv.NORM_L2 method available in python library 
 
 ![alt text](https://github.com/shafique18/TemplateMatching/blob/main/images/Screen%20Shot%202021-08-23%20at%204.28.55%20PM.png)
 
