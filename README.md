@@ -1,6 +1,6 @@
 # image Template Matching using python
 
-## Beginner.ipynb || Expert.ipynb
+## Beginner.ipynb
 
 ### Sklearn based fast, normalized cross-correlation in images
 Here I have tried using Sklearn based fast, normalized cross-correlation method to match Template images with the new input image. 
