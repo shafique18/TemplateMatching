@@ -6,6 +6,8 @@
 Here I have tried using Sklearn based fast, normalized cross-correlation method to match Template images with the new input image. 
 This approach able to find almost all images separately differentiatied by rectangular red boxes.
 
+# image example
+
 ![alt text](https://github.com/shafique18/TemplateMatching/blob/main/images/Screen%20Shot%202021-08-23%20at%204.18.52%20PM.png)
 
 ![alt text](https://github.com/shafique18/TemplateMatching/blob/main/images/Screen%20Shot%202021-08-23%20at%205.26.14%20PM.png)
